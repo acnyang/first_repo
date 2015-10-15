@@ -23,3 +23,22 @@ article p {
 body {
   background-color: #CCFFFF;
 }
+
+/* WIDGETS */
+aside section p {
+  /*color: #0066CC;*/
+  text-align: center;
+  font-size: 2em;
+  font-weight: bolder;
+}
+
+aside section li {
+  /*text-align: center;*/
+  list-style-type: none;
+  line-height: 1.5;
+  padding-left: -10px;
+}
+
+.blue-text {
+  color: #0066CC;
+}
